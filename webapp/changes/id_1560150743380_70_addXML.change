@@ -1,0 +1,41 @@
+{
+	"fileName": "id_1560150743380_70_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "",
+	"reference": "customer.opensap.manage.products",
+	"packageName": "$TMP",
+	"content": {
+		"fragmentPath": "fragments/ShareEmail.fragment.xml",
+		"targetAggregation": "content",
+		"index": 6
+	},
+	"selector": {
+		"id": "nw.epm.refapps.st.prod.manage::sap.suite.ui.generic.template.ListReport.view.ListReport::SEPMRA_C_PD_Product--template::ListReport::TableToolbar",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/nw.epm.refapps.st.prod.manage/appVariants/customer.opensap.manage.products/changes/",
+	"projectId": "customer.opensap.manage.products",
+	"creation": "2019-06-10T07:12:49.798Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.66.1",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "3.0.0",
+		"from": "3.0.0"
+	},
+	"jsOnly": true,
+	"variantReference": ""
+}
